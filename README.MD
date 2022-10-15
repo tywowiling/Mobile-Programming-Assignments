@@ -9,4 +9,5 @@ Written using *Java Programming* Language, and Android Studio Code Editor. For *
 > Or you can click the link below: 
 
 [Week1 Detail Information](https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/Week1/README.md)
+
 [Week2 Detail Information](https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/Week2/README.md)

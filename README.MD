@@ -7,4 +7,7 @@
 Written using *Java Programming* Language, and Android Studio Code Editor. For ***more detail information*** of the project located at each of the folder. 
 
 > Or you can click the link below: 
-Week 1: (https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/Week1/README.md)
+
+```
+Week 1: [week 1 detail info](https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/Week1/README.md)
+```

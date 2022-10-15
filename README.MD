@@ -12,7 +12,7 @@ Written using *Java Programming* Language, and Android Studio Code Editor. For *
 
 [Week 2 Detail Information](https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/Week2/README.md)
 
-[Week 3 Detail Information](https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/Week3/README.md)
+[Week 3 Detail Information](https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/W3/README.md)
 
 [Week 4 Detail Information](https://github.com/tywowiling/Mobile-Programming-Assignments/blob/main/Week4/README.md)
 

@@ -6,4 +6,4 @@
 
 ## Description 
 
-The second week project is a Simple Calculator with addition, multiplication, subtraction, division function. 
+The second week project is a Simple Calculator with addition, multiplication, subtraction, division function. This is also the first project to introduce Android Activity, Layout Design, and Debugging.

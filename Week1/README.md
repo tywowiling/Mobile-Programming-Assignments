@@ -5,4 +5,4 @@
 
 ## Description 
 
-The first week project is about introduction to Android, how it works, the folder structure, Tools that will be used later in the course, and the flow of programming an Android App Based using Android Studio And Java
+The first week project is about introduction to Android, how it works, the folder/file structure, tools that might be use later in the course, and the flow of programming an Android App Based using Android Studio And Java

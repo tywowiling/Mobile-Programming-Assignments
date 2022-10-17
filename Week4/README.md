@@ -6,4 +6,4 @@
 
 ## Description 
 
-The third week project is a simple application to send and receive data from one activity to another activity (intent). For the project "b", fragment is used to create each layer. 
+The fourth week project is a simple application to send and receive data from one activity to another activity (intent). For the project "b", fragment is used to create each layer. 
